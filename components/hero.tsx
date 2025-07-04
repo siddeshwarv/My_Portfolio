@@ -9,7 +9,7 @@ export default function Hero() {
           <img
             src="/siddeshwar-profile.png"
             alt="Siddeshwar Vasam"
-            className="w-48 h-48 rounded-full mx-auto mb-6 border-4 border-white shadow-2xl object-cover"
+            className="w-48 h-48 rounded-full mx-auto mb-6 border-4 border-white shadow-2xl object-cover object-top"
           />
           <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-4">Siddeshwar Vasam</h1>
           <div className="text-xl md:text-2xl text-gray-600 mb-6">
