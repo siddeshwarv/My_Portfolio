@@ -15,18 +15,26 @@ export default function Hero() {
             Siddeshwar Vasam
           </h1>
           <div className="text-xl md:text-2xl text-gray-600 mb-6">
-            <span className="block">☕ Java Spring Boot Developer</span>
-            <span className="block">🏗️ Microservices Architect</span>
-            <span className="block">⚡ Performance Optimization Expert</span>
+            <span className="block">☕ Java Spring Boot Backend Developer</span>
+            <span className="block">
+              🏗️ System Design & Microservices Enthusiast
+            </span>
+            <span className="block">
+              ⚡ DevOps-Aware & DSA-Focused Engineer
+            </span>
           </div>
           <p className="text-lg text-gray-700 max-w-3xl mx-auto mb-8 leading-relaxed">
             Passionate <strong>Java Spring Boot Developer</strong> with{" "}
-            <strong>1 year of experience</strong> crafting high-performance
-            microservices and REST APIs. Specialized in building scalable
-            backend systems using
-            <strong> Spring Boot, PostgreSQL, Docker, and Kafka</strong>. Expert
-            in optimizing database queries, implementing caching strategies, and
-            applying design patterns for enterprise-grade applications.
+            <strong>1+ years of experience</strong> building scalable backend
+            systems and microservices. Skilled in designing and optimizing REST
+            APIs using{" "}
+            <strong>Spring Boot, PostgreSQL, Docker, and Kafka</strong>.
+            Proficient in{" "}
+            <strong>
+              system design, SQL tuning, caching, and design patterns
+            </strong>
+            . Active in <strong>competitive coding</strong> with 600+ problems
+            solved across LeetCode, CodeChef, HackerRank, and GeeksforGeeks.
           </p>
         </div>
 
